@@ -1,7 +1,7 @@
 service:
   name: Spring Config Server Client Application
 department:
-  code: IT
+  code: IT-01
 
 logging:
   level:

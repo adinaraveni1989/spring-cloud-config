@@ -1,7 +1,7 @@
 service:
-  name: Spring Config Server Client Application
+  name: Spring Config Server Client Application ADDING EXTRA
 department:
-  code: IT-02
+  code: eee
 
 logging:
   level:

@@ -1,5 +1,7 @@
 service:
   name: Spring Client Service
+department:
+  code: IT
 server:
   port: 8200
 

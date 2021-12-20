@@ -5,4 +5,4 @@ server:
 
 logging:
   level:
-    com.innovation.sprint.config: DEBUG
+    com.innovation.sprint.*: DEBUG

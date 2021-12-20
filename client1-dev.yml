@@ -2,8 +2,6 @@ service:
   name: Spring Config Server Client Application
 department:
   code: IT
-server:
-  port: 8200
 
 logging:
   level:

@@ -1,5 +1,5 @@
 service:
-  name: Spring Client Service
+  name: Spring Config Server Client Application
 department:
   code: IT
 server:
@@ -7,6 +7,6 @@ server:
 
 logging:
   level:
-    com.innovation.sprint.config: DEBUG
-    com.innovation.sprint.controller: DEBUG
-    com.innovation.sprint.service: DEBUG
+    com.innovation.sprint.config: INFO
+    com.innovation.sprint.controller: INFO
+    com.innovation.sprint.service: INFO

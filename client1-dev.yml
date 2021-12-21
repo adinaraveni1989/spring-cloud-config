@@ -1,7 +1,7 @@
 service:
   name: Spring Config Server Client Application
 department:
-  code: EEE
+  code: EEE-01
 
 logging:
   level:

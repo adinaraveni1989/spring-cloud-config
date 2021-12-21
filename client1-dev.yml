@@ -1,6 +1,5 @@
 service:
   name: Spring Config Server Client Application
-  
 department:
   code: ECE
 

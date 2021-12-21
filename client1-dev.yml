@@ -2,7 +2,7 @@ service:
   name: Spring Config Server Client Application
   
 department:
-  code: EEE
+  code: ECE
 
 logging:
   level:

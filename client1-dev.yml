@@ -5,6 +5,6 @@ department:
 
 logging:
   level:
-    com.innovation.sprint.config: DEBUG
-    com.innovation.sprint.controller: DEBUG
-    com.innovation.sprint.service: DEBUG
+    com.innovation.sprint.config: INFO
+    com.innovation.sprint.controller: INFO
+    com.innovation.sprint.service: INFO
